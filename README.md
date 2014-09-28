@@ -1,4 +1,0 @@
-howto
-=====
-
-howto KnowledgeBase
